@@ -1,4 +1,4 @@
-# Project 2 🧠 — Problem-Solving Assistant
+# Project 1 🧠 — Problem-Solving Assistant
 
 ## Context
 
